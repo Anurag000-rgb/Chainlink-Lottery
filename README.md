@@ -15,7 +15,7 @@
 ## Cloning My Project
 
 ```bash
-git clone ${}
+git clone https://github.com/Anurag000-rgb/Chainlink-Lottery
 ```
 
 ## Installation
